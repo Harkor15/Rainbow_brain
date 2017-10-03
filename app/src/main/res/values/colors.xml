@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="tlo_gray">#1e1e1e</color>
+    <color name="harkorcolour">#ff0000</color>
+
+    <color name="Hred">#990000</color>
+    <color name="Hgreen">#009900</color>
+    <color name="Hblue">#000099</color>
+    <color name="Horange">#cc3300</color>
+</resources>

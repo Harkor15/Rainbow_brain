@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tęcza mózgu</string>
+    <string name="tgra">Jaki to kolor?</string>
+    <string name="HasloGry">Jakiego koloru jest ten napis?</string>
+    <string name="sBLUE">NIEBIESKI</string>
+    <string name="sGREEN">ZIELONY</string>
+    <string name="sRED">CZERWONY</string>
+    <string name="sYELLOW">ŻÓŁTY</string>
+    <string name="dalej">Menu</string>
+    <string name="przegrana">KONIEC GRY Wynik:</string>
+    <string name="podsumowanie">WYNIK:</string>
+    <string name="licznik">0</string>
+    <string name="play">GRAJ</string>
+    <string name="bestscore">NAJLEPSZY WYNIK</string>
+    <string name="newBest">Nowy rekord!</string>
+    <string name="yourBS">Najlepszy wynik:</string>
+</resources>

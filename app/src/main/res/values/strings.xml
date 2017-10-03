@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Rainbow brain</string>
+    <string name="tgra">What is this colour?</string>
+    <string name="HasloGry">What is the color of this text?</string>
+    <string name="sRED">RED</string>
+    <string name="sGREEN">GREEN</string>
+    <string name="sBLUE">BLUE</string>
+    <string name="sYELLOW">YELLOW</string>
+    <string name="licznik">0</string>
+    <string name="dalej">Menu</string>
+    <string name="podsumowanie">SCORE:</string>
+    <string name="przegrana">GAME OVER Score:</string>
+    <string name="play">PLAY</string>
+    <string name="bestscore">BEST SCORE</string>
+    <string name="newBest">New best score!</string>
+    <string name="yourBS">Best score:</string>
+</resources>
