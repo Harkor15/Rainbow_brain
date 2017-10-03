@@ -15,4 +15,7 @@
     <string name="bestscore">NAJLEPSZY WYNIK</string>
     <string name="newBest">Nowy rekord!</string>
     <string name="yourBS">Najlepszy wynik:</string>
+    <string name="PL">PL</string>
+    <string name="lang">JĘZYK</string>
+    <string name="ChYL">Wybierz język</string>
 </resources>

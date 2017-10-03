@@ -40,4 +40,8 @@ public class HarkorMenu extends AppCompatActivity {
         //String toast="Best score: "+wow;
         Toast.makeText(HarkorMenu.this,"Best score: "+wow,Toast.LENGTH_SHORT).show();
     }
+    public void languages(View view){
+        Intent intent=new  Intent (this, language.class);
+        startActivity(intent);
+    }
 }

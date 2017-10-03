@@ -14,4 +14,9 @@
     <string name="bestscore">BEST SCORE</string>
     <string name="newBest">New best score!</string>
     <string name="yourBS">Best score:</string>
+    <string name="lang">LANGUAGE</string>
+    <string name="ChYL">Choose your language</string>
+    <string name="PL">PL</string>
+    <string name="ENG">ENG</string>
+    <string name="BACK">BACK</string>
 </resources>
